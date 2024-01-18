@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Joss-Ecleo-s-workspace-humbe9.ap-southeast-2.xata.sh/db/ZLearn",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

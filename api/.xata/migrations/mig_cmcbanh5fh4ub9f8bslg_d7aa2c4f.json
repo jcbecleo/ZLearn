@@ -1,0 +1,19 @@
+{
+  "id": "mig_cmcbanh5fh4ub9f8bslg",
+  "parentID": "mig_cmcbab95fh4ub9f8bskg",
+  "checksum": "1:d7aa2c4f5b6634e64d2284d1c3be951cba7c353eaad814dddf38067fe7f62562",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "image",
+          "type": "file",
+          "file": {
+            "defaultPublicAccess": true
+          }
+        },
+        "table": "sets"
+      }
+    }
+  ]
+}

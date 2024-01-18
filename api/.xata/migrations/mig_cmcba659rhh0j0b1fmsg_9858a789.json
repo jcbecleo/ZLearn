@@ -1,0 +1,17 @@
+{
+  "id": "mig_cmcba659rhh0j0b1fmsg",
+  "parentID": "mig_cmcb9th5fh4ub9f8bsjg",
+  "checksum": "1:9858a789e878aa7dc0570f4934b8955b0b5a96fa4ac5d1ea87d2621bb7f6bdda",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "private",
+          "type": "bool",
+          "defaultValue": "true"
+        },
+        "table": "sets"
+      }
+    }
+  ]
+}

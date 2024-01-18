@@ -1,0 +1,16 @@
+{
+  "id": "mig_cmcbab95fh4ub9f8bskg",
+  "parentID": "mig_cmcba659rhh0j0b1fmsg",
+  "checksum": "1:43111ec5fa211f00b374f89a559da3a700242bd89072addd3d915aea183b2723",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "creator",
+          "type": "string"
+        },
+        "table": "sets"
+      }
+    }
+  ]
+}
